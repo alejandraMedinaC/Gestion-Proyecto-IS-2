@@ -1,6 +1,8 @@
 # Gestion-Proyecto-IS-2
 Gestión Proyecto Ing. Software II - Grupo 9
-        Integrantes
+       
+       
+       Integrantes
 Paulo Javier Arias Vergara
 Horacio David Bareiro Palacios
 Nelson Sebastián Malfitano Genéz
